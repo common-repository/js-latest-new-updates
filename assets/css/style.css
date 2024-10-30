@@ -1,0 +1,23 @@
+.announ_dis {
+    border: 2px solid #f2f2f2;
+    padding: 5px 15px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+.ann_msg_left {
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+}
+span.announe_date {
+    font-size: 10px;
+    color: #868686;
+}
+.jsnewlist {
+    height: 600px;
+    overflow-y: auto;
+}
+span.announe_date strong {
+    font-size: 12px;
+    color: #868686;
+}
